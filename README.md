@@ -7,13 +7,13 @@ I am the next Gen of a Software developer
 With the powers of DevHaus Academy and The Odin Project I was able to switch gears onto a new spectacular road of cyber magic. Together we have been building a full stack Netflix mockup and the social network App "Bounce". My passion runs deep for chess, programming simple games, exploring AI tools and good food.
 
 * 🌍  I'm based in Leipzig, Germany
-* 
+  
 * 🖥️  See my portfolio at [this address](http://terminalpage-az.vercel.app/)
-* 
+  
 * ✉️  You can contact me at [akim.zmerli@googlemail.com](mailto:akim.zmerli@googlemail.com)
-* 
+  
 * 🤝  I'm open to collaborating on anything that is exciting and challenging
-* 
+  
 * ⚡  successfully converting coffee to code daily
 
 ### Skills
