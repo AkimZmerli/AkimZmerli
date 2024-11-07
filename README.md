@@ -1,4 +1,4 @@
-Hi 👋 My name is Akim Zmerli
+Hi 👋 My name is Akim 
 ===================================================================================================================================
 
 I am a future Web and/or Software developer
