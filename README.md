@@ -14,7 +14,7 @@ With the powers of DevHaus Academy and The Odin Project I was able to switch gea
   
 * 🤝  I'm open to collaborating on anything that is exciting and challenging
   
-* ⚡  successfully converting coffee to code daily
+* ⚡  successfully compiling coffee to code daily
 
 ### Skills
 
