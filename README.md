@@ -10,7 +10,7 @@ With the powers of DevHaus Academy and The Odin Project I was able to switch gea
   
 * 🖥️  See my portfolio at [this address](https://www.akimzmerli.site)
   
-* ✉️  You can contact me at [akim.zmerli@googlemail.com](mailto:akim.zmerli@googlemail.com)
+* ✉️  You can contact me at [mail@akimzmerli.site](mailto:mail@akimzmerli.site)
   
 * 🤝  I'm open to collaborating on anything that is exciting and challenging
   
