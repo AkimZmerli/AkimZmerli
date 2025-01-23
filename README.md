@@ -8,7 +8,7 @@ With the powers of DevHaus Academy and The Odin Project I was able to switch gea
 
 * 🌍  I'm based in Leipzig, Germany
   
-* 🖥️  See my portfolio at [this address](http://terminalpage-az.vercel.app/)
+* 🖥️  See my portfolio at [this address](https://www.akimzmerli.site)
   
 * ✉️  You can contact me at [akim.zmerli@googlemail.com](mailto:akim.zmerli@googlemail.com)
   
