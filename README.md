@@ -1,7 +1,7 @@
 Welcome 👋 My name is Akim 
 ===================================================================================================================================
 
-I belong to the next Gen of Software and Web developers
+I belong to the next Gen of Software and Web Developers
 -------------------------------------------
 
 With the powers of DevHaus Academy and The Odin Project I was able to switch gears onto a new spectacular road of cyber magic. Together we have been building a full stack Netflix mockup and the social network App "Bounce". My passion runs deep for chess, programming simple games, exploring AI tools and good food.
