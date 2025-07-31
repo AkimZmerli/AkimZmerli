@@ -1,6 +1,6 @@
 # Hey fellow Dev! Welcome to the Next Gen of Software Development 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&background=0D1117&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI-Native+Developer+%7C+Claude+Code+Pioneer;Treating+AI+as+a+Powerful+Operating+System;Architecture+%E2%80%A2+Code+%E2%80%A2+Documentation+%E2%80%A2+Innovation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&background=0D1117&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI-Native+Developer+%7C+Claude+Code+Pioneer;Treating+AI+as+a+Powerful+Operating+System;)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 ## 🚀 The AI-Native Developer
 
-Based in **Leipzig, Germany**, I represent the next evolution in software development. While others see AI as a tool, I treat it as a sophisticated operating system that requires mastery to navigate effectively. Just as mastering Linux or Windows requires understanding file systems and command interfaces, AI development demands fluency in prompt engineering, context management, and collaborative reasoning. I've evolved beyond traditional coding to become an AI system architect who orchestrates intelligent systems rather than just writing code.
+Based in **Leipzig, Germany**, I represent the next evolution in software development. While others see AI as a tool, I treat it as a sophisticated operating system that requires mastery to navigate effectively. I've evolved beyond traditional coding to become an AI system architect who orchestrates intelligent systems rather than just writing code.
 
 ## 🔬 The Mutation: What Makes Me Different
 
@@ -37,16 +37,14 @@ Based in **Leipzig, Germany**, I represent the next evolution in software develo
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Payload](https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logoColor=white)
 
 ### 🎨 **Frontend & Styling**
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🔧 **Backend & Database**
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Payload](https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -73,30 +71,6 @@ Based in **Leipzig, Germany**, I represent the next evolution in software develo
 
 </div>
 
-## 💭 Developer Philosophy
-
-```typescript
-interface AINavigator {
-  readonly mindset: "AI as Operating System";
-  readonly approach: "Collaborative Intelligence";
-  readonly mission: "Pioneer the Future of Development";
-  
-  navigate(aiSystem: AI): Promise<Innovation>;
-  architect(idea: Concept, ai: AI): SystemDesign;
-  evolve(currentSkills: SkillSet): EnhancedCapabilities;
-}
-
-class AkimZmerli implements AINavigator {
-  // The mutation continues...
-  async buildTheFuture(): Promise<void> {
-    while (true) {
-      await this.collaborate.with(AI);
-      await this.push.boundaries();
-      await this.share.knowledge();
-    }
-  }
-}
-```
 
 ---
 
