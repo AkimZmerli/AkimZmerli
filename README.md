@@ -1,4 +1,4 @@
-# Hey fellow Dev! Welcome to the Next Gen of Software Development 
+# Next Gen of Software Development is here
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&background=0D1117&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI-Native+Developer+%7C+Claude+Code+Pioneer;Treating+AI+as+a+Powerful+Operating+System;)](https://git.io/typing-svg)
 
