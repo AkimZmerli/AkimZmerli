@@ -1,10 +1,10 @@
-#  Hey fellow Dev! Welcome to the Next Gen of Software Development 
+# Hey fellow Dev! Welcome to the Next Gen of Software Development 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&background=0D1117&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI-Native+Developer+%7C+Claude+Code+Pioneer;Treating+AI+as+a+Powerful+Operating+System;Architecture+%E2%80%A2+Code+%E2%80%A2+Documentation+%E2%80%A2+Innovation)](https://git.io/typing-svg)
-the line above is cut of by the tags below 
+
+<br/>
+
 <div align="center">
-
-
 
 [![GitHub followers](https://img.shields.io/github/followers/AkimZmerli?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=00D4FF)](https://github.com/AkimZmerli)
 [![Profile Views](https://komarev.com/ghpvc/?username=AkimZmerli&style=for-the-badge&color=00D4FF&labelColor=black)](https://github.com/AkimZmerli)
@@ -14,45 +14,30 @@ the line above is cut of by the tags below
 
 > *"I don't just write code with AI—I navigate AI as its own powerful operating system. This is the mutation that sets me apart in the current crowd of developers."*
 
-
-This is too much for the human eye compress this part. no dot notation, write in text form 
 ## 🚀 The AI-Native Developer
 
-Based in **Leipzig, Germany** , I represent the next evolution in software development—a mutation in the traditional developer paradigm. While others see AI as a tool, **I treat it as a sophisticated operating system that requires mastery to navigate effectively**.
-
-### 🧭 My Philosophy: AI as an Operating System
-
-Just as mastering Linux or Windows requires understanding file systems, permissions, and command interfaces, **AI development demands fluency in prompt engineering, context management, and collaborative reasoning**. I've evolved beyond traditional coding to become an **AI system architect**—someone who doesn't just use AI, but orchestrates it.
+Based in **Leipzig, Germany**, I represent the next evolution in software development. While others see AI as a tool, I treat it as a sophisticated operating system that requires mastery to navigate effectively. Just as mastering Linux or Windows requires understanding file systems and command interfaces, AI development demands fluency in prompt engineering, context management, and collaborative reasoning. I've evolved beyond traditional coding to become an AI system architect who orchestrates intelligent systems rather than just writing code.
 
 ## 🔬 The Mutation: What Makes Me Different
 
-### 🎯 **AI-First Architecture**
-- **Claude Code Power User**: Pioneering development workflows that treat AI as a collaborative operating system
-- successfull vertical slice migration in open source and company projects
-- immersive 3D animation implementation
+**AI-First Architecture** - As a Claude Code Power User, I pioneer development workflows that treat AI as a collaborative operating system. I've successfully executed vertical slice migrations in both open source and company projects, and implemented immersive 3D animations through AI-assisted development.
 
-### 🏗️ **Beyond Code Writing**
-- **AI-Assisted Architecture**: Designing systems through AI collaboration, not just implementation
-- **Intelligent Documentation**: AI-powered technical writing that captures intent, not just functionality  
-- **Code Review Evolution**: Peer-reviewing with AI to catch patterns human eyes miss
-- **Continuous Learning Loop**: Using AI to identify knowledge gaps and optimize learning paths
+**Beyond Code Writing** - I design systems through AI collaboration, create intelligent documentation that captures intent rather than just functionality, and peer-review with AI to catch patterns human eyes miss. My continuous learning loop uses AI to identify knowledge gaps and optimize learning paths.
 
-### 🧠 **The Pioneer Mindset**
-While others learn to code, **I learn to think with AI**. This isn't about replacing human intelligence—it's about **amplifying it through systematic AI collaboration**.
+**The Pioneer Mindset** - While others learn to code, I learn to think with AI. This isn't about replacing human intelligence but amplifying it through systematic AI collaboration.
 
 ## 🛠️ My AI-Enhanced Tech Stack
 
 ### 🤖 **AI Development Environment**
 ![Claude Code](https://img.shields.io/badge/Claude_Code-FF6B00?style=for-the-badge&logo=anthropic&logoColor=white)
-MCP Servers 
-Claude Code Hooks 
+![MCP Servers](https://img.shields.io/badge/MCP_Servers-00D4FF?style=for-the-badge&logoColor=black)
+![Claude Hooks](https://img.shields.io/badge/Claude_Code_Hooks-FF6B00?style=for-the-badge&logoColor=white)
 
 ### 💻 **Core Technologies**
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-Payload as backend
+![Payload](https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logoColor=white)
 
 ### 🎨 **Frontend & Styling**
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -65,7 +50,6 @@ Payload as backend
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-
 ## 📊 AI-Powered Development Stats
 
 <div align="center">
@@ -77,7 +61,6 @@ Payload as backend
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkimZmerli&layout=compact&theme=tokyonight&border_color=00D4FF&title_color=00D4FF" alt="Top Languages" />
 
 </div>
-
 
 ## 📫 Connect with the Future of Development
 
@@ -119,7 +102,7 @@ class AkimZmerli implements AINavigator {
 
 <div align="center">
 
-###  *"In a world where AI is becoming the new electricity, I'm not just using the power—I'm rewiring the grid."*
+### *"In a world where AI is becoming the new electricity, I'm not just using the power—I'm rewiring the grid."*
 
 **Ready to build the future together?** Let's navigate the AI development landscape and create something extraordinary.
 
