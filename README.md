@@ -1,7 +1,7 @@
 #  Hey fellow Dev! Welcome to the Next Gen of Software Development 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&background=0D1117&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI-Native+Developer+%7C+Claude+Code+Pioneer;Treating+AI+as+a+Powerful+Operating+System;Architecture+%E2%80%A2+Code+%E2%80%A2+Documentation+%E2%80%A2+Innovation)](https://git.io/typing-svg)
-
+the line above is cut of by the tags below 
 <div align="center">
 
 
@@ -14,6 +14,8 @@
 
 > *"I don't just write code with AI—I navigate AI as its own powerful operating system. This is the mutation that sets me apart in the current crowd of developers."*
 
+
+This is too much for the human eye compress this part. no dot notation, write in text form 
 ## 🚀 The AI-Native Developer
 
 Based in **Leipzig, Germany** , I represent the next evolution in software development—a mutation in the traditional developer paradigm. While others see AI as a tool, **I treat it as a sophisticated operating system that requires mastery to navigate effectively**.
@@ -117,7 +119,7 @@ class AkimZmerli implements AINavigator {
 
 <div align="center">
 
-### 🧬 *"In a world where AI is becoming the new electricity, I'm not just using the power—I'm rewiring the grid."*
+###  *"In a world where AI is becoming the new electricity, I'm not just using the power—I'm rewiring the grid."*
 
 **Ready to build the future together?** Let's navigate the AI development landscape and create something extraordinary.
 
