@@ -12,13 +12,13 @@
 
 </div>
 
-> *"I don't just write code with AI—I navigate AI as its own powerful operating system. This is the mutation that sets me apart in the current crowd of developers."*
 
-## 🚀 The AI-Native Developer
+
+## 🚀 The AI-Native 
 
 Based in **Leipzig, Germany**, I represent the next evolution in software development. While others see AI as a tool, I treat it as a sophisticated operating system that requires mastery to navigate effectively. I've evolved beyond traditional coding to become an AI system architect who orchestrates intelligent systems rather than just writing code.
 
-## 🔬 The Mutation: What Makes Me Different
+## 🔬 What Makes Me Different
 
 **AI-First Architecture** - As a Claude Code Power User, I pioneer development workflows that treat AI as a collaborative operating system. I've successfully executed vertical slice migrations in both open source and company projects, and implemented immersive 3D animations through AI-assisted development.
 
@@ -26,7 +26,7 @@ Based in **Leipzig, Germany**, I represent the next evolution in software develo
 
 **The Pioneer Mindset** - While others learn to code, I learn to think with AI. This isn't about replacing human intelligence but amplifying it through systematic AI collaboration.
 
-## 🛠️ My AI-Enhanced Tech Stack
+## 🛠️ My Tech Stack
 
 ### 🤖 **AI Development Environment**
 ![Claude Code](https://img.shields.io/badge/Claude_Code-FF6B00?style=for-the-badge&logo=anthropic&logoColor=white)
