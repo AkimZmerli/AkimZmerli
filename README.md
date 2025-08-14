@@ -54,9 +54,6 @@ Based in **Leipzig, Germany**, I represent the next evolution in software develo
 
 <img src="https://github-readme-stats.vercel.app/api?username=AkimZmerli&show_icons=true&theme=tokyonight&border_color=00D4FF&title_color=00D4FF&icon_color=00D4FF" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkimZmerli&theme=tokyonight&border=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkimZmerli&layout=compact&theme=tokyonight&border_color=00D4FF&title_color=00D4FF" alt="Top Languages" />
 
 </div>
 
@@ -75,8 +72,6 @@ Based in **Leipzig, Germany**, I represent the next evolution in software develo
 ---
 
 <div align="center">
-
-### *"In a world where AI is becoming the new electricity, I'm not just using the power—I'm rewiring the grid."*
 
 **Ready to build the future together?** Let's navigate the AI development landscape and create something extraordinary.
 
