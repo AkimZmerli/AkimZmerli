@@ -22,8 +22,6 @@ Based in **Leipzig, Germany**, I represent the next evolution in software develo
 
 **AI-First Architecture** - As a Claude Code Power User, I pioneer development workflows that treat AI as a collaborative operating system. I've successfully executed vertical slice migrations in both open source and company projects, and implemented immersive 3D animations through AI-assisted development.
 
-**Beyond Code Writing** - I design systems through AI collaboration, create intelligent documentation that captures intent rather than just functionality, and peer-review with AI to catch patterns human eyes miss. My continuous learning loop uses AI to identify knowledge gaps and optimize learning paths.
-
 **The Pioneer Mindset** - While others learn to code, I learn to think with AI. This isn't about replacing human intelligence but amplifying it through systematic AI collaboration.
 
 ## 🛠️ My Tech Stack
