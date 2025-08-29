@@ -26,11 +26,6 @@ Based in **Leipzig, Germany**, I represent the next evolution in software develo
 
 ## 🛠️ My Tech Stack
 
-### 🤖 **AI Development Environment**
-![Claude Code](https://img.shields.io/badge/Claude_Code-FF6B00?style=for-the-badge&logo=anthropic&logoColor=white)
-![MCP Servers](https://img.shields.io/badge/MCP_Servers-00D4FF?style=for-the-badge&logoColor=black)
-![Claude Hooks](https://img.shields.io/badge/Claude_Code_Hooks-FF6B00?style=for-the-badge&logoColor=white)
-
 ### 💻 **Core Technologies**
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -45,6 +40,12 @@ Based in **Leipzig, Germany**, I represent the next evolution in software develo
 ![Payload](https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
+### 🤖 **AI Development Environment**
+![Claude Code](https://img.shields.io/badge/Claude_Code-FF6B00?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP_Servers-00D4FF?style=for-the-badge&logoColor=black)
+![Claude Hooks](https://img.shields.io/badge/Claude_Code_Hooks-FF6B00?style=for-the-badge&logoColor=white)
 
 ## 📊 AI-Powered Development Stats
 
