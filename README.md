@@ -1,14 +1,10 @@
 # Full-Stack Engineer building AI-powered applications
 
-<div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AkimZmerli&style=for-the-badge&color=00D4FF&labelColor=black)](https://github.com/AkimZmerli)
-
-# Full-Stack Engineer building AI-powered applications
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&background=0D1117&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Shipping+conversational+features;Integrating+LLMs+into+production;Creating+seamless+user+experiences)](https://git.io/typing-svg)
 
-</div>
+
 
 
 
@@ -69,3 +65,8 @@ interfaces using Three.js and Payload CMS
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<div align="center">
+[![Profile Views](https://komarev.com/ghpvc/?username=AkimZmerli&style=for-the-badge&color=00D4FF&labelColor=black)](https://github.com/AkimZmerli)
+
+</div>
