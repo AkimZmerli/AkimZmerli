@@ -1,8 +1,8 @@
 # Full-Stack Engineer building AI-powered applications
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&background=0D1117&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+AI-powered+applications;Shipping+conversational+features;Integrating+LLMs+into+production;Creating+seamless+user+experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&background=0D1117&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Shipping+conversational+features;Integrating+LLMs+into+production;Creating+seamless+user+experiences)](https://git.io/typing-svg)
 
-<br/>
+
 
 <div align="center">
 
