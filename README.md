@@ -67,6 +67,7 @@ interfaces using Three.js and Payload CMS
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <div align="center">
+  
 [![Profile Views](https://komarev.com/ghpvc/?username=AkimZmerli&style=for-the-badge&color=00D4FF&labelColor=black)](https://github.com/AkimZmerli)
 
 </div>
