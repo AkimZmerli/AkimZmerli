@@ -19,7 +19,7 @@ I ship fast, think product-first, and love solving problems with the right mix
 of code and AI tooling.
 
 📍 Based in Leipzig/Berlin, Germany  
-💼 Open to opportunities in AI-first startups
+
 
 ## 🛠️ What I Build
 
@@ -30,7 +30,7 @@ LLM orchestration using PydanticAI and modern AI frameworks
 Node.js, and Django
 
 **Modern UX** - Responsive designs, 3D web experiences, and immersive user 
-interfaces using Three.js and Payload CMS
+interfaces using Three.js 
 
 ## 💡 Recent Work
 
@@ -58,7 +58,6 @@ interfaces using Three.js and Payload CMS
 ### **AI/ML**
 ![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-00D4FF?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-FF6B00?style=for-the-badge&logoColor=white)
 
 ### **Tools**
